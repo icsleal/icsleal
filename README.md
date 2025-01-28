@@ -4,10 +4,13 @@
 
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Static Badge](https://img.shields.io/badge/-html?style=for-the-badge&logo=HTML5&logoColor=FF6633&label=HTML&labelColor=0D1117&color=0D1117)&nbsp;
+
+
+![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23000000?style=for-the-badge&logo=CSS3&logoColor=%231E90FF&color=%23000000)
+![Static Badge](https://img.shields.io/badge/HTML%20-%20%23000000?style=for-the-badge&logo=HTML5&logoColor=%23FF4500&color=%23000000)
+![Static Badge](https://img.shields.io/badge/JavaScript%20-%20%23000000?style=for-the-badge&logo=JavaScript&logoColor=%23FFFF00&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Bootstrap%20-%20%23000000?style=for-the-badge&logo=Bootstrap&logoColor=%237952B3&color=%23000000)&nbsp;
+
 
 
 
